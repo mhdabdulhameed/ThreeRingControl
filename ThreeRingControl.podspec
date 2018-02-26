@@ -71,7 +71,7 @@ Pod::Spec.new do |s|
   #
 
   # s.source       = { :git => "http://EXAMPLE/ThreeRingControl.git", :tag => "#{s.version}" }
-  s.source       = { :path => '.' }
+    s.source       = { :git => "git@github.com:mhdabdulhameed/ThreeRingControl.git" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
